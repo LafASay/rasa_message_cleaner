@@ -1,0 +1,11 @@
+LICENSE.txt
+README.txt
+pyproject.toml
+setup.py
+src/__init__.py
+src/messagecleaner.py
+src/messagecleaner.egg-info/PKG-INFO
+src/messagecleaner.egg-info/SOURCES.txt
+src/messagecleaner.egg-info/dependency_links.txt
+src/messagecleaner.egg-info/requires.txt
+src/messagecleaner.egg-info/top_level.txt
